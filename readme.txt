@@ -7,3 +7,4 @@ Creating a new branch is quicks & simple.
 =======
 Creating a new branch is quicks And simple.
 >>>>>>> feature1
+newline
